@@ -1,0 +1,337 @@
+Apple
+Banana
+Orange
+Strawberry
+Blueberry
+Raspberry
+Grape
+Watermelon
+Pineapple
+Mango
+Kiwi
+Lemon
+Lime
+Peach
+Pear
+Plum
+Apricot
+Cherry
+Pomegranate
+Avocado
+Tomato
+Cucumber
+Carrot
+Broccoli
+Cauliflower
+Spinach
+Lettuce
+Kale
+Zucchini
+Eggplant
+Bell Pepper
+Onion
+Garlic
+Potato
+Sweet Potato
+Celery
+Asparagus
+Brussels Sprouts
+Green Beans
+Peas
+Corn
+Mushroom
+Ginger
+Cilantro
+Parsley
+Basil
+Mint
+Rosemary
+Thyme
+Milk
+Whole Milk
+Skim Milk
+Almond Milk
+Soy Milk
+Oat Milk
+Greek Yogurt
+Yogurt
+Cheddar Cheese
+Mozzarella Cheese
+Parmesan Cheese
+Swiss Cheese
+Brie Cheese
+Butter
+Salted Butter
+Unsalted Butter
+Margarine
+Cream Cheese
+Sour Cream
+Cottage Cheese
+Heavy Cream
+Half and Half
+Large Eggs
+Medium Eggs
+Chicken Breast
+Chicken Thighs
+Whole Chicken
+Ground Beef
+Steak
+Pork Chops
+Bacon
+Sausage
+Ham
+Turkey
+Salmon
+Tuna
+Cod
+Shrimp
+Crab
+Tofu
+Tempeh
+Seitan
+Bread
+Whole Wheat Bread
+White Bread
+Sourdough Bread
+Rye Bread
+Baguette
+Bagels
+English Muffins
+Tortillas
+Pita Bread
+Rice
+Brown Rice
+White Rice
+Quinoa
+Oats
+Pasta
+Spaghetti
+Penne
+Fusilli
+Macaroni
+Lasagna Noodles
+Flour
+All-Purpose Flour
+Whole Wheat Flour
+Sugar
+Brown Sugar
+Powdered Sugar
+Honey
+Maple Syrup
+Olive Oil
+Vegetable Oil
+Coconut Oil
+Vinegar
+Apple Cider Vinegar
+Soy Sauce
+Hot Sauce
+Ketchup
+Mustard
+Mayonnaise
+Peanut Butter
+Almond Butter
+Jam
+Jelly
+Cereal
+Granola
+Coffee
+Tea
+Black Tea
+Green Tea
+Herbal Tea
+Orange Juice
+Apple Juice
+Grapefruit Juice
+Sparkling Water
+Bottled Water
+Soda
+Popcorn
+Potato Chips
+Pretzels
+Tortilla Chips
+Crackers
+Chocolate
+Cookies
+Ice Cream
+Frozen Pizza
+Frozen Vegetables
+Frozen Fruit
+Frozen Waffles
+Frozen Peas
+Lentils
+Black Beans
+Kidney Beans
+Chickpeas
+Pinto Beans
+Navy Beans
+Split Peas
+Almonds
+Walnuts
+Cashews
+Peanuts
+Pistachios
+Sunflower Seeds
+Pumpkin Seeds
+Chia Seeds
+Flax Seeds
+Salt
+Black Pepper
+Garlic Powder
+Onion Powder
+Cinnamon
+Nutmeg
+Paprika
+Cumin
+Chili Powder
+Dried Oregano
+Dried Thyme
+Baking Soda
+Baking Powder
+Yeast
+Vanilla Extract
+Cornstarch
+Soy Milk
+Chocolate Chips
+Mixed Nuts
+Trail Mix
+Greek Yogurt
+Feta Cheese
+Goat Cheese
+Ground Turkey
+Breakfast Sausage
+Pork Loin
+Chicken Wings
+Ground Lamb
+Clams
+Mussels
+Scallops
+Fish Sticks
+Plantains
+Squash
+Butternut Squash
+Spaghetti Squash
+Acorn Squash
+Radishes
+Beets
+Artichokes
+Okra
+Parsnips
+Turnips
+Leeks
+Shallots
+Scallions
+Chives
+Dill
+Fennel
+Arugula
+Watercress
+Swiss Chard
+Collard Greens
+Bok Choy
+Cabbage
+Red Cabbage
+Brussels Sprouts
+Endive
+Radicchio
+Edamame
+Water Chestnuts
+Bamboo Shoots
+Nori Sheets
+Coconut Milk
+Curry Paste
+Sesame Oil
+Rice Vinegar
+Fish Sauce
+Oyster Sauce
+Hoisin Sauce
+Teriyaki Sauce
+Pesto
+Marinara Sauce
+Salsa
+Hummus
+Guacamole
+Olives
+Pickles
+Capers
+Anchovies
+Artichoke Hearts
+Sun-Dried Tomatoes
+Roasted Red Peppers
+Walnut Oil
+Sesame Seeds
+Poppy Seeds
+Pine Nuts
+Macadamia Nuts
+Pecans
+Hazelnuts
+Brazil Nuts
+Goji Berries
+Dried Cranberries
+Raisins
+Dried Apricots
+Dates
+Prunes
+Dried Figs
+Dark Chocolate
+Milk Chocolate
+White Chocolate
+Baking Chocolate
+Cocoa Powder
+Graham Crackers
+Marshmallows
+Sprinkles
+Food Coloring
+Aluminum Foil
+Plastic Wrap
+Parchment Paper
+Wax Paper
+Paper Towels
+Napkins
+Paper Plates
+Paper Cups
+Trash Bags
+Zip-top Bags
+Dish Soap
+Hand Soap
+Laundry Detergent
+Fabric Softener
+Bleach
+Multipurpose Cleaner
+Glass Cleaner
+Sponge
+Scrub Brush
+Toilet Paper
+Facial Tissue
+Toothpaste
+Toothbrush
+Floss
+Mouthwash
+Shampoo
+Conditioner
+Body Wash
+Bar Soap
+Deodorant
+Shaving Cream
+Razors
+Lotion
+Sunscreen
+Hand Sanitizer
+First Aid Kit
+Bandages
+Pain Relievers
+Multivitamins
+Cough Drops
+Pet Food
+Dog Treats
+Cat Litter
+Light Bulbs
+Batteries
+Matches
+Lighter
+Candles
+Indoor Plant
+Fresh Flowers
+Greeting Card
+Magazine
+Newspaper
+Ice
