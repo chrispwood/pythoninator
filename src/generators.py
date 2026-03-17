@@ -40,6 +40,6 @@ def main():
     print("\nAll items have been processed or iteration was stopped.")
 
 
-if __name__ == "__main__":
-    main()
+    if __name__ == "__main__":
+        main()
 

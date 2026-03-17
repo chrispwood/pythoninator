@@ -87,6 +87,7 @@ Cod
 Shrimp
 Crab
 Tofu
+Onions
 Tempeh
 Seitan
 Bread
