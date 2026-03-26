@@ -2,8 +2,14 @@ import itertools
 import time
 from threading import Thread, Event
 
-def spin(msg: str, done: Event) -> None:
+def spin(msg: str, done: Event, pause: Event) -> None:
     for char in itertools.cycle(r'\|/-'):
+        if pause.is_set():
+            # Clear the current spinner line so the prompt is clean
+            print('\r' + ' ' * (len(msg) + 2) + '\r', end='', flush=True)
+            while pause.is_set():
+                if done.wait(.1):
+                    break
         status = f'\r{char} {msg}'
         print(status, end='', flush=True)
         if done.wait(.1):
@@ -17,12 +23,36 @@ def slow() -> int:
 
 def supervisor() -> int:
     done = Event()
-    spinner = Thread(target=spin, args=('thinking!', done))
+    pause = Event()
+    spinner = Thread(target=spin, args=('thinking!', done, pause))
     print(f'spinner object: {spinner}')
     spinner.start()
     result = slow()
+
+    while True:
+        # pause is needed to stop printing during user input
+        pause.set()
+
+        # need to add this because spinner might print one more time
+        time.sleep(.1)
+
+        user_input = input("\rKeep waiting? y/N: ").strip().lower()
+
+        # break if user doesn't want to wait
+        if user_input != 'y':
+            break
+
+        # resume printing
+        pause.clear()
+        # wait on main thread
+        result = slow()
+
+    # user no longer waiting. Wrap up the thread worker (simulated)
     done.set()
+
+    # wait for the thread to finish
     spinner.join()
+    
     return result
 
 def main() -> None:
